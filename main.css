@@ -14,6 +14,12 @@ h1 {
 	letter-spacing: 1px;
 }
 
+#hacker {
+	text-align: center;
+	margin-top: 30vh;
+	font-size: 40px;
+}
+
 #logo {
 	position: fixed;
 	top: 10px;
